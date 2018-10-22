@@ -6,7 +6,7 @@
 
 ## 仿真
 仿真断点单步运行
-![image]()
+![image](https://github.com/wushulu/Cproject/blob/master/%E5%9B%BE%E7%89%87/%E4%BB%BF%E7%9C%9F.png)
 
 
 
