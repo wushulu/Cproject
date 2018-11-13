@@ -1,7 +1,8 @@
 # my_c_project
 【这是一个C语言指针、结构体、函数指针、指针函数等操作】<br>
 ## 配置视频和显示效果
- 配置仿真步骤如[配置视频](https://www.youtube.com/watch?v=DIw02CaEusY&t=857s)
+ 配置仿真步骤如[配置视频](https://www.youtube.com/watch?v=DIw02CaEusY&t=857s)<br>
+ [国内镜像](https://github.com/wushulu/Cproject/blob/master/Set%20Up%20C%2B%2B%20Development%20With%20Visual%20Studio%20Code%20on%20Windows%2010%20(VS%20Code).mp4)
 ![image](https://github.com/wushulu/Cproject/blob/master/%E5%9B%BE%E7%89%87/%E9%85%8D%E7%BD%AE%E5%AE%8C%E6%88%90.png)<br>
 ## 文件路径
 根目录文件使用
