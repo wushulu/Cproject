@@ -1,8 +1,17 @@
 # my_c_project
 【这是一个C语言指针、结构体、函数指针、指针函数等操作】<br>
 ## 配置视频和显示效果
- [配置视频](https://www.youtube.com/watch?v=DIw02CaEusY&t=857s)
+ 配置仿真步骤如[配置视频](https://www.youtube.com/watch?v=DIw02CaEusY&t=857s)
 ![image](https://github.com/wushulu/Cproject/blob/master/%E5%9B%BE%E7%89%87/%E9%85%8D%E7%BD%AE%E5%AE%8C%E6%88%90.png)<br>
+## 文件路径
+根目录文件使用
+```cpp
+#include""
+```
+而不是
+```cpp
+#include<>
+```
 
 ## 仿真
 仿真断点单步运行
@@ -86,6 +95,7 @@ void drect_funcation()
 {
   printf("data drect to funcaton\r");
 }
-```SSS
+```
+
 
 
