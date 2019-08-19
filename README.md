@@ -97,6 +97,17 @@ void drect_funcation()
   printf("data drect to funcaton\r");
 }
 ```
+## 指针的基础知识
+   ```c
+   int *p ,a;
+   p=&a;
+   (*p)++;
+   ++*p;
+   *p++;
+  
+   ```
+   其中p 是指针变量 ，p=&a 代表P指向a的地址，*p是a的值。<br>
+   (*p)++ 等同于 ++*p 运算后同样指向a, 但是*p++ 指的是将p的值加1 ，运算后p的值不指向a了。
 
 
 
