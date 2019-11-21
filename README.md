@@ -108,6 +108,18 @@ void drect_funcation()
    ```
    其中p 是指针变量 ，p=&a 代表P指向a的地址，*p是a的值。<br>
    (*p)++ 等同于 ++*p 运算后同样指向a, 但是*p++ 指的是将p的值加1 ，运算后p的值不指向a了。
-
+### 积分定理的应用
+  ```c
+  float function1(float f);//定义积分函数
+  short N;//设计多次积分N
+  float h;//定义h=(a-b)/N 积分的小区间
+  s=(function1(a)+function1(b))/2; //计算中间值的积分 第一个值
+  for (i=i;i<N;i++)
+  {
+    s+=function1(a+i*h);//计算单个积分长度总和
+  }
+  return s*h;//计算出长度*H 等于面积 即积分
+  ```
+  
 
 
